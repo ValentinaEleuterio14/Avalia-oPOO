@@ -1,9 +1,7 @@
 public class Garcom
 {
-    // Atributos privados
     private string nome;
 
-    // Property Nome
     public string Nome
     {
         get { return nome; }
@@ -18,19 +16,16 @@ public class Garcom
         }
     }
 
-    // Construtor com parâmetros
     public Garcom(string nome)
     {
         Nome = nome;
     }
 
-    // Método para servir o cliente
     public void ServirCliente(Cliente cliente)
     {
         Console.WriteLine($"O garçom {Nome} está servindo o cliente {cliente.Nome}.");
     }
 
-    // Método para trazer a conta
     public void TrazerConta(double valor)
     {
         if (valor <= 0)
@@ -41,7 +36,6 @@ public class Garcom
         Console.WriteLine($"Conta: R$ {valor:F2}");
     }
 
-    // ToString
     public override string ToString()
     {
         return $"Garçom: {Nome}";

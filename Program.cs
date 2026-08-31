@@ -1,26 +1,40 @@
-﻿// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
+﻿// Cliente - Reservar mesa //
 
-// Cliente // Reservar mesa //
+Cliente cliente = new Cliente("Eduardo", "38564785199");
 
-if (nome != null && cpf != null)
-{
-   Console.WriteLine($"Olá, {nome}, seu cpf é {cpf}");
-}
-else
-{
-   Console.WriteLine("Desculpe, você não forneceu um nome ou seu cpf para resevar a mesa");
-}
+cliente.ReservarMesa();
 
-// Cliente // Pedir um prato
 
-// ChefDeCozinha // Exibir nome do prato //
+// Cliente - Pedir um prato //
 
-// ChefDeCozinha // Exibir valor do prato // 
-double valor = 99.99;
-Console.WriteLine($"o valor da variavel valor é: {valor}");
+cliente.PedirPrato("Nhoque ao molho de noz moscada");
 
-// Garçom // Servir Cliente // 
+Console.WriteLine(cliente);
 
-// Garçom // Trazer a conta //
+
+// ChefDeCozinha - Exibir prato e valor //
+
+ChefDeCozinha prato = new ChefDeCozinha(
+    "Nhoque ao molho de noz moscada",
+    45.90
+);
+
+Console.WriteLine(prato);
+
+
+// Garçom - Servir cliente//
+
+Garcom garcom = new Garcom("João");
+
+garcom.ServirCliente(cliente);
+
+
+// Garçom - Trazer a conta //
+
+garcom.TrazerConta(85.90);
+
+Console.WriteLine(garcom);
+
+
+
  

@@ -1,0 +1,15 @@
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\bin\Debug\net10.0\Avalia-oPOO.exe
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\bin\Debug\net10.0\Avalia-oPOO.deps.json
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\bin\Debug\net10.0\Avalia-oPOO.runtimeconfig.json
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\bin\Debug\net10.0\Avalia-oPOO.dll
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\bin\Debug\net10.0\Avalia-oPOO.pdb
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.AssemblyInfoInputs.cache
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.AssemblyInfo.cs
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.csproj.CoreCompileInputs.cache
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.sourcelink.json
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.dll
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\refint\Avalia-oPOO.dll
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.pdb
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\Avalia-oPOO.genruntimeconfig.cache
+C:\Users\valentina60558536\OneDrive - SENAC-SC\Documentos\GitHub\trabalho_final\Avalia-oPOO\obj\Debug\net10.0\ref\Avalia-oPOO.dll

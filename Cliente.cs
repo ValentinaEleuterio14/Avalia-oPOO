@@ -1,8 +1,8 @@
 // cadastrar cpf para reservar mesa e pedir um prato   
 public class Cliente
 {
-    private string nome;
-    private string cpf;
+    private string nome = "";
+    private string cpf = "";
 
     public string Nome
     {

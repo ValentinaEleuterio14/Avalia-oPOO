@@ -1,6 +1,6 @@
 public class ChefDeCozinha
 {
-    private string nomePrato;
+    private string nomePrato = "";
     private double valor;
 
     public string NomePrato

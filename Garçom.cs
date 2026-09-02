@@ -1,7 +1,7 @@
 public class Garcom
 {
-    private string nome;
-
+    private string nome = "";
+    private int idade;
     public string Nome
     {
         get { return nome; }
@@ -16,6 +16,19 @@ public class Garcom
         }
     }
 
+    public int Idade
+    {
+        get { return idade; }
+        set
+        {
+            if (value <= 0)
+            {
+                throw new ArgumentException("A idade deve ser maior que zero.");
+            }
+
+            idade = value;
+        }
+    }
     public Garcom(string nome)
     {
         Nome = nome;

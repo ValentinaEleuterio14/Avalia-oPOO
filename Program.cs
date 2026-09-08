@@ -22,13 +22,11 @@ ChefDeCozinha prato = new ChefDeCozinha(
 Console.WriteLine(prato);
 
 
-//ChefDeCozinha - checar a comanda //
-Comanda comanda = new Comanda(
+//ChefDeCozinha - Checar a comanda //
+prato.Comanda(
     "Nhoque ao molho de noz moscada",
     45.90
 );
-
-Console.WriteLine(comanda);
 
 
 // Garçom - Servir cliente//

@@ -37,6 +37,18 @@ public class ChefDeCozinha
         Valor = valor;
     }
 
+ public void Comanda(string pratoComanda, double valorComanda)
+    {
+        if (NomePrato == pratoComanda && Valor == valorComanda)
+        {
+            Console.WriteLine("Comanda conferida! O prato e o valor estão corretos.");
+        }
+        else
+        {
+            Console.WriteLine("Atenção! Há uma divergência na comanda.");
+        }
+    }
+
     public override string ToString()
     {
         return $"Prato: {NomePrato} | Valor: R$ {Valor:F2}";

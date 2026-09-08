@@ -1,7 +1,7 @@
 public class Garcom
 {
     private string nome = "";
-    private int idade;
+
     public string Nome
     {
         get { return nome; }
